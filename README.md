@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi there! I'm David
 
-<!--
-**DavidlMachado30/DavidlMachado30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Computer Engineering student at Universidade do Minho.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies and Tools
+
+- 💻 **Languages:** Java, C, Haskell, SQL, C++ (currently learning)
+- 🛠️ **Tools:** Git, GCC, GDB, Make, Valgrind, MySQL
+- 🐧 **Operating System:** Ubuntu (Linux)
+
+---
+
+## 🌱 Currently Learning
+
+- C++ (object-oriented programming and memory management)
+- Best practices for collaborative development with Git
+
+---
+
+## 💡 Personal Interests in Programming
+
+- Operating Systems
+- Code efficiency and optimization
+- Compilers
+- Relational Database Development
+- Video Games
+- Application Development
+- Server Development
+- Learning new programming languages and paradigms, with a special interest in Rust and C#
+
+---
+
+## 📂 Featured Repositories
+
+*(Coming soon with relevant projects – under construction)*
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** davidlmachado30@gmail.com
+
+---
+
+🚀 I'm currently looking for an internship opportunity where I can apply and expand my knowledge in computer science, while gaining practical experience in the tech industry.
